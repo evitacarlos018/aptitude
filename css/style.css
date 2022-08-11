@@ -1,0 +1,16 @@
+.container
+{
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container form 
+{
+    width: 500px;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 18px 11px 21px -1px rgba(191,191,191,0.79);
+}
